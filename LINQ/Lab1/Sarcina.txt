@@ -1,0 +1,11 @@
+1. Gasiti studentii minori cu ajutorul instructiunii IF (în programul din clasă). 
+
+2.Efectuati un program care o sa adauge 10 studenti cu cimpurile(IDStudent, nume, prenume, virsta, genul, buget/contract, 
+NumarTelefon). Dupa care cautati si afisati:
+1. Studentii care au peste 18 ani
+2. Studentii la care numarul de telefon contine cifra 20
+3. Studentii care sunt la buget
+4. Studentii in numele carora se gaseste litera m.
+Toate acestea le efectuati folosind Query syntax si Method syntax.
+
+Succes!!!

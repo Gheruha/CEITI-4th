@@ -1,0 +1,3 @@
+De proiectat baza de date a unei companii. Plasati scenariul bazei de date in G.Drive si trimiteti link-ul la verificare.
+
+Pentru a crea structura(tabelele, legăturile, constrângerile) pentru început puteți utiliza un compilator online precum https://www.jdoodle.com/login-to-continue
