@@ -1,4 +1,4 @@
-﻿using Lab2;
+using Lab2;
 using System;
 using System.Collections.Generic;
 using System.Linq;

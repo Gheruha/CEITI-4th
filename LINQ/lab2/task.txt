@@ -1,0 +1,23 @@
+Efectuati un program care o sa adauge 10 filme cu campurile(Idfilm, denumire, bugetul, casa, anul aparitiei, rating).
+
+Dupa care faceti urmatoarele:
+
+1.      Afisati filmele cu bugetul peste 200000 (Query syntax)
+
+2.      Afisati filmele care se incep cu litera D(Method syntax)
+
+3.      Afisati filmele din 2004.
+
+4.      Afisati filmele in care se gaseste litera L (Query syntax)
+
+5.      Sortati filmele in ordine crescatoare
+
+6.      Afisati ultimul film din lista
+
+7.      Afisati numai primul film din lista
+
+8.      Grupati filmele dupa buget
+
+9.      Afisati filmele cu ratingul mai mare de 5
+
+10.   Afisati filmele pina cind denumirea lor depaseste 10 caractere.
