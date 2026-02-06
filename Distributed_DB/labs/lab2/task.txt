@@ -1,0 +1,4 @@
+Asupra bazei de date create de voi la laboratorul 1, de realizat :
+1. Autentificare(user) -Sursa1
+2. Drepturi de acces (GRANT, REVOKE) -Sursa2.
+3. Constrângeri de integritate
