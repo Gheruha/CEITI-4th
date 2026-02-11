@@ -1,0 +1,13 @@
+Laborator N3
+Creați două colecții de date prima colecție o sa contină cîmpurile(id_angajat, nume_angajat, calificat/necalificat, salariu, id_adresa), a doua colecție o să conțină(id_adresa, strada, bloc, apartament).
+    1. Afișați numele angajatului și strada unde trăiește
+    2. Grupați angajații după salariu
+Creați doua colecții de date cu numere:
+    1. Returnați valorile distincte din colecție
+    2. Returnați elementele ce apar într-o colecție dar nu apar in alta colecție
+    3. Returnați elementele ce apar in ambele colecții
+    4. Returnați elementele unice din cele doua colecții
+    5. Verificați daca avem un număr anumit cu metoda DefaultIEmpty
+Generați o succesiune de 1000 de numere întregi.
+Generați o secvență în care se repetă numărul 7 de 100 de ori.
+
