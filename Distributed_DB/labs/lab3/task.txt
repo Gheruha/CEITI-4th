@@ -1,0 +1,2 @@
+    Folosind baza de date creată la lecțiile anterioare, de realizat câte 2 fragmentări de fiecare tip(orizontală, verticală, mixtă).
+
