@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+  <book id="1">
+    <title>Clean Code</title>
+    <author>Robert C. Martin</author>
+    <genre>Programare</genre>
+    <price>39.99</price>
+  </book>
+
+  <book id="2">
+    <title>The Pragmatic Programmer</title>
+    <author>Andrew Hunt</author>
+    <genre>Programare</genre>
+    <price>42.50</price>
+  </book>
+
+  <book id="3">
+    <title>1984</title>
+    <author>George Orwell</author>
+    <genre>Fictiune</genre>
+    <price>14.99</price>
+  </book>
+
+  <book id="4">
+    <title>Animal Farm</title>
+    <author>George Orwell</author>
+    <genre>Fictiune</genre>
+    <price>9.99</price>
+  </book>
+
+  <book id="5">
+    <title>Atomic Habits</title>
+    <author>James Clear</author>
+    <genre>DezvoltarePersonala</genre>
+    <price>18.75</price>
+  </book>
+
+  <book id="6">
+    <title>Sapiens</title>
+    <author>Yuval Noah Harari</author>
+    <genre>Istorie</genre>
+    <price>24.90</price>
+  </book>
+
+  <book id="7">
+    <title>The Art of Computer Programming</title>
+    <author>Donald E. Knuth</author>
+    <genre>Programare</genre>
+    <price>190.00</price>
+  </book>
+
+  <book id="8">
+    <title>The Hobbit</title>
+    <author>J.R.R. Tolkien</author>
+    <genre>Fantasy</genre>
+    <price>16.40</price>
+  </book>
+
+  <book id="9">
+    <title>Thinking, Fast and Slow</title>
+    <author>Daniel Kahneman</author>
+    <genre>Psihologie</genre>
+    <price>21.30</price>
+  </book>
+
+  <book id="10">
+    <title>Deep Work</title>
+    <author>Cal Newport</author>
+    <genre>DezvoltarePersonala</genre>
+    <price>17.60</price>
+  </book>
+</catalog>

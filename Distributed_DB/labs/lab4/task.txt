@@ -1,0 +1,8 @@
+Folosind baza de date CompanieIT, de creat 6 obiecte ale bazei de date care ne oferă un nivel de abstractizare, protejând baza de date de modificările ce pot fi făcute asupra numelor obiectelor de bază sau locațiilor acestora.
+ De creat 3 vederi și 3 sinonime care afișează : 
+1) numele, prenumele angajatului și numele departamentul din care face parte.
+2)salariul mediu, minim, maxim şi numărul de angajaţi pentru fiecare departament.
+3)Venitul fiecărui angajat de la proiecte.
+ SGBD MYSQL nu suporta synonimele , în schimb poate fi apelata procedura sys.create_synonym_db  care creează o schemă(o baza de date) sinonimă care conține vizualizări care se referă la toate tabelele și vizualizările din schema originală.
+
+Pentru nota 10 de afișat informația prin intermediul sinonimelor și vederilor în dependență de informația conținută în tabele.
