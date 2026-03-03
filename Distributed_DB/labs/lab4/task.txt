@@ -6,3 +6,5 @@ Folosind baza de date CompanieIT, de creat 6 obiecte ale bazei de date care ne o
  SGBD MYSQL nu suporta synonimele , în schimb poate fi apelata procedura sys.create_synonym_db  care creează o schemă(o baza de date) sinonimă care conține vizualizări care se referă la toate tabelele și vizualizările din schema originală.
 
 Pentru nota 10 de afișat informația prin intermediul sinonimelor și vederilor în dependență de informația conținută în tabele.
+
+
