@@ -1,0 +1,7 @@
+Folosind baza de date creată de voi la laborator, de creat următoarele declanșatoare:
+ 1)care nu va permite modificarea câmpului Salariu al angajaților;
+2)generează un mesaj la inserarea unui proiect nou "A fost inregistrat un proiect nou" daca acest proiect nu exista. Dacă proiectul deja este înregistrat, sa  anuleze înregistrarea și să afișeze mesajul "A fost inregistrat un proiect cu aceste nume(sau id)" ;
+
+3)care nu va permite mai mult de 9 înregistrări în tabelul angajați;
+4)crearea unui login cu parolă și un declanșator care verifică dacă este în sistem un declanșator și un login cu asemenea nume. Dacă sunt găsite atunci sunt suprimate.
+  5) Creati o tranzacție prin intermediul căreia veți mări salariu si veți șterge careva înregistrări după un criteriu anumit.
